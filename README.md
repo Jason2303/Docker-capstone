@@ -55,7 +55,7 @@ The Flask app image was scanned with Trivy before and after hardening.
 
 ### Before
 
-![Trivy Before](docs/screenshots/trivy_before_pic.png)
+![Trivy Before](docs/screenshots/trivy_before_pic.jpeg)
 
 | Severity | Count |
 |---|---|
@@ -67,7 +67,7 @@ The Flask app image was scanned with Trivy before and after hardening.
 
 ### After
 
-![Trivy After](docs/screenshots/trivy_after_pic.png)
+![Trivy After](docs/screenshots/trivy_after_pic.jpeg)
 
 | Severity | Count |
 |---|---|
@@ -97,8 +97,8 @@ capstone/
 ├── trivy-before.txt
 ├── trivy-after.txt
 └── screenshots/
-├── trivy_before_pic.png
-└── trivy_after_pic.png
+├── trivy_before_pic.jpeg
+└── trivy_after_pic.jpeg
 
 ```
 
