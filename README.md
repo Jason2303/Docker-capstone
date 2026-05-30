@@ -81,6 +81,8 @@ CRITICAL vulnerabilities eliminated. Remaining 2 HIGH findings are OS-level pack
 
 ## Project Structure
 
+```
+
 capstone/
 ├── docker-compose.yml
 ├── flask-app/
@@ -97,6 +99,8 @@ capstone/
 └── screenshots/
 ├── trivy_before_pic.png
 └── trivy_after_pic.png
+
+```
 
 ## AWS ECR
 
